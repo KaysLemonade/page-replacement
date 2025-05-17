@@ -1,0 +1,20 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\dell\Documents\Visual Studio 2022\case study\case study.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\dell\Documents\Visual Studio 2022\case study\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\dell\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.4.8-hotspot\
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Users\dell\AppData\Local\Programs\Python\Python313\Scripts\;C:\Users\dell\AppData\Local\Programs\Python\Python313\;C:\Users\dell\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.4.8-hotspot\bin;C:\Users\dell\AppData\Local\Microsoft\WindowsApps;C:\Users\dell\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\dell\.dotnet\tools;C:\Users\dell\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.4.8-hotspot\\bin
+JRE paths:	C:\Users\dell\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.4.8-hotspot\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Users\dell\AppData\Local\Programs\Python\Python313\Scripts\;C:\Users\dell\AppData\Local\Programs\Python\Python313\;C:\Users\dell\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.4.8-hotspot\bin;C:\Users\dell\AppData\Local\Microsoft\WindowsApps;C:\Users\dell\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\dell\.dotnet\tools;C:\Users\dell\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.4.8-hotspot\\bin
+Check launcher:	C:\Users\dell\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.4.8-hotspot\bin\javaw.exe (OK)
+Version string: 1.017.000_004 / 64-Bit (OK)
+Launcher:	C:\Users\dell\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.4.8-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\dell\Documents\Visual Studio 2022\case study\case study.exe"
+Args length:	75/32768 chars
+Exit code:	0
